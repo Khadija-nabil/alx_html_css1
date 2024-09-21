@@ -6,7 +6,7 @@ This project is a showcase of a beautifully designed website, crafted with care 
 ## Features
 ### Responsive design:
 The website is fully responsive, ensuring a great user experience on desktop, tablet, and mobile devices.
-###Custom typography:
+### Custom typography:
 The website features a custom typography system, with carefully selected font families and font sizes to create a harmonious reading experience.
 ### Color scheme:
 The website features a bold and vibrant color scheme, with a focus on accessibility and readability.
