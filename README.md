@@ -13,3 +13,14 @@ The website features a bold and vibrant color scheme, with a focus on accessibil
 ### Sectional layout:
 The website is divided into clear sections, each with its own unique design and layout.
 Interactive elements: The website features interactive elements, such as buttons and hover effects, to enhance the user experience.
+
+## Acknowledgments
+This project was built using a range of tools and resources, including:
+
+Source Sans 3 font family
+CSS Grid for layout
+Flexbox for layout
+We hope you enjoy using this project!
+
+
+/To get started with this project, simply clone the repository and open the index.html file in your favorite web browser./
